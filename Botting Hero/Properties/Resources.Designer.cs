@@ -73,26 +73,6 @@ namespace Botting.Hero.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Fish {
-            get {
-                object obj = ResourceManager.GetObject("Fish", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Fish1 {
-            get {
-                object obj = ResourceManager.GetObject("Fish1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Fish2 {
             get {
                 object obj = ResourceManager.GetObject("Fish2", resourceCulture);
